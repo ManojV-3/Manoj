@@ -1,3 +1,3 @@
 print("vvce")
-print("assistant professor")
+print("students")
 print("computer science engineering")
